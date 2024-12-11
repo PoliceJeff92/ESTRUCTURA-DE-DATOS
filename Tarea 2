@@ -1,0 +1,70 @@
+using System;
+
+namespace FigurasGeometricas
+{
+    // Clase base abstracta para todas las figuras
+    public abstract class Figura
+    {
+        public abstract double CalcularArea();
+        public abstract double CalcularPerimetro();
+    }
+
+    // Clase que representa un círculo
+    public class Circulo : Figura
+    {
+        private double radio;
+
+        public Circulo(double radio)
+        {
+            this.radio = radio;
+        }
+
+        public override double CalcularArea()
+        {
+            return Math.PI * Math.Pow(radio, 2);
+        }
+
+        public override double CalcularPerimetro()
+        {
+            return 2 * Math.PI * radio;
+        }
+    }
+
+    // Clase que representa un cuadrado
+    public class Cuadrado : Figura
+    {
+        private double lado;
+
+        public Cuadrado(double lado)
+        {
+            this.lado = lado;
+        }
+
+        public override double CalcularArea()
+        {
+            return lado * lado;
+        }
+
+        public override double CalcularPerimetro()
+        {
+            return 4 * lado;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Crear objetos de las figuras
+            Circulo circulo = new Circulo(5);
+            Cuadrado cuadrado = new Cuadrado(4);
+
+            // Calcular y mostrar el área y perímetro
+            Console.WriteLine("Área del círculo: " + circulo.CalcularArea());
+            Console.WriteLine("Perímetro del círculo: " + circulo.CalcularPerimetro());
+
+            Console.WriteLine("Área del cuadrado: " + cuadrado.CalcularArea());
+            Console.WriteLine("Perímetro del cuadrado: " + cuadrado.CalcularPerimetro());
+        }
+    }
+}
