@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj": {}
+    "C:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj": {
+    "C:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
+        "projectUniqueName": "C:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
         "projectName": "NombreDelProyecto",
-        "projectPath": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
+        "projectPath": "C:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
         "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\obj\\",
+        "outputPath": "C:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
+      "projectUniqueName": "c:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
       "projectName": "NombreDelProyecto",
-      "projectPath": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
+      "projectPath": "c:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\NombreDelProyecto.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\Desktop\\LOGISTICA\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\obj\\",
+      "outputPath": "c:\\Users\\crist\\Desktop\\UNI\\ESTRUCTURA DE DATOS\\ESTRUCTURA-DE-DATOS\\NombreDelProyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
