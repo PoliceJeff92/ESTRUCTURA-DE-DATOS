@@ -1,0 +1,15 @@
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\bin\Debug\net9.0\GuiaPracticas2.exe
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\bin\Debug\net9.0\GuiaPracticas2.deps.json
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\bin\Debug\net9.0\GuiaPracticas2.runtimeconfig.json
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\bin\Debug\net9.0\GuiaPracticas2.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\bin\Debug\net9.0\GuiaPracticas2.pdb
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.AssemblyInfo.cs
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.sourcelink.json
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\refint\GuiaPracticas2.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.pdb
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\GuiaPracticas2.genruntimeconfig.cache
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\GuiaPracticas2\obj\Debug\net9.0\ref\GuiaPracticas2.dll
