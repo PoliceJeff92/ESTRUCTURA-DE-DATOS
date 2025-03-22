@@ -13,3 +13,11 @@ C:\Users\crist\Desktop\LOGISTICA\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\Nom
 C:\Users\crist\Desktop\LOGISTICA\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.pdb
 C:\Users\crist\Desktop\LOGISTICA\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.genruntimeconfig.cache
 C:\Users\crist\Desktop\LOGISTICA\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\ref\NombreDelProyecto.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.AssemblyInfo.cs
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.sourcelink.json
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\refint\NombreDelProyecto.dll
+C:\Users\crist\Desktop\UNI\ESTRUCTURA DE DATOS\ESTRUCTURA-DE-DATOS\NombreDelProyecto\obj\Debug\net9.0\NombreDelProyecto.pdb
